@@ -1,11 +1,18 @@
 ---
 layout: default
 ---
-
 # About Me
-I hold first class degrees and more in innovative, and cutting-edge technologies. Including a Bachelor’s degree in Computer Games Programming, Master’s degree in Virtual Reality (VR), and bootcamps in AI and Unreal Engine. These have equipped me with both the theoretical, practical, and soft skills needed to create immersive experiences. I work well with others in teams, even leading them, and actively seek to support and communicate with fellows on projects or aspiring students in the field at tech conferences.
+Hello there, feel free to have a look at this page with all the interesting projects I've done so far! I've worked well with others in teams, even leading them, and actively seek to support and talk with fellows on projects or aspiring students in the field at tech conferences, as I have a keen interest in innovative, cutting-edge technologies and enjoy networking with peers. I've done a Bachelor’s degree in Computer Games Programming, Master’s degree in Virtual Reality (VR), and bootcamps in AI and Unreal Engine. These have equipped me with both the theoretical, practical, and soft skills needed to create immersive experiences. 
 
-# Unannounced Media Project Made With Unreal Engine 5's Niagara VFX
+[Team Lead Unreal Engine Niagara VFX](#unannounced-media-project-made-with-unreal-engine-5-niagara-vfx)\
+[SeaMAD404](#seamad404-gamejam-game-made-in-36-hours)\
+[C++ Game Engine](#c-plus-plus-opengl-sfml-game-engine)\
+[Mixed Reality Headset](#mixed-reality-headset)\
+[Projection Mapping With Mannequins](#projection-mapping-with-mannequins)\
+[Beginner Friendly VR Project](#universal-audio-driven-beginner-friendly-vr-project)
+
+
+## Unannounced Media Project Made With Unreal Engine 5 Niagara VFX
 *Please note, due to confidentiality: non-specific descriptions and no images.*
 
 **Outline:**
@@ -19,7 +26,9 @@ Worked as a team lead, liaising with clients, other teams, and created individua
 		
 **Skills: Unreal Engine · Visual Effects · Leadership · Team Management · Project Management**
 
-# SeaMAD404 - Gamejam Game Made in 36 Hours
+[Back to top](#about-me)
+
+## SeaMAD404 Gamejam Game Made in 36 Hours
 ![A view from outside the sealab in SeaMAD404](/assets/images/SeaMAD404.png)
 **Outline:**
 Created a 3D third-person arcade game in a small team in the space of 36 hours for the Devs That Jam 36-hour Challenge #12. Set in a sealab under the ocean, you have to quickly clean up the workplace before your supervisor finds the mess. Made in Unreal Engine 5, created the levels, 3D level assets, and coded gameplay in the Blueprints visual scripting language along with the team.
@@ -30,9 +39,11 @@ Created a 3D third-person arcade game in a small team in the space of 36 hours f
 * Designed the level, the layout of the sealab, the position of the flora and fauna, interactive elements and art assets from Fab.
 * Coded interactive elements of the game and other gameplay features.
 
-**Skills: Unreal Engine · Level Design · 3D Modeling · Teamwork · Game Programming**
+**Skills: Unreal Engine · Level Design · 3D Modeling · Teamwork · Game Programming** 
 
-# C++ OpenGL SFML Game Engine
+[Back to top](#about-me)
+
+## C-Plus-Plus OpenGL SFML Game Engine
 
 **Outline:**
 Created a working generic C++ game engine via the use of OpenGL, SFML and shaders to render and draw out a scene that could load in .obj models and textures, read data from .xml files via a .xml loader (TinyXML), designed with strong class inheritance using the factory design pattern, in a group. The game created was a simple adventure game where you controlled a bee finding honey.
@@ -45,7 +56,10 @@ Created a working generic C++ game engine via the use of OpenGL, SFML and shader
 		
 **Skills: C++ · OpenGL · SFML · XML · Game Programming**
 
-# Mixed Reality Headset
+[Back to top](#about-me)
+
+## Mixed Reality Headset
+![Showing the masking and physical interactions with virtual objects](/assets/images/MixedReality3.png)
 
 **Outline:**
 Created a mixed reality (MR) headset, designed and ran experiments with participants, tested interactions in MR. The headset was constructed from a virtual reality headset, a 3D stereo camera and LEAP Motion camera. The video input was processed with the game engine Unity, which was used to make the experiment. Participants were brought in for 45 minute time slots to test interactions in MR and processed.
@@ -58,7 +72,10 @@ Created a mixed reality (MR) headset, designed and ran experiments with particip
 	 
 **Skills: Mixed Reality (MR) · Virtual Reality (VR) · Experimental Research · Experimental Design · Unity**
 
-# Projection Mapping with Mannequins
+[Back to top](#about-me)
+
+## Projection Mapping With Mannequins
+![The zombie model being puppeted in realtime](/assets/images/PuppetZombie.png)
 
 **Outline:**
 Successfully designed the first projection mapping system using a laser projector. Used 3D character models rigged in a suitable environment (Unity) onto a physical mannequin via a laser projector, with animations taken from an actor's face via an Intel RealSense camera in real-time in collaboration with other people of the group. This is the first project in this field to use a laser projector in a project.
@@ -71,7 +88,10 @@ Successfully designed the first projection mapping system using a laser projecto
 		 
 **Skills: Audio Visual (AV) Systems · Projection Mapping · Motion Tracking · Team Management · Unity**
 
-# Universal, Audio Driven Beginner Friendly VR Project
+[Back to top](#about-me)
+
+## Universal, Audio Driven Beginner Friendly VR Project
+![A VR view inside the experience](/assets/images/VRWorld.png)
 
 **Outline:**
 In this project, a virtual reality experience in Unreal Engine was created via the use of an Oculus headset and Leap Motion controller for users with no prior virtual reality experience. They were introduced to core concepts of virtual reality at their own pace. It was designed as a universal experience where the user is directed by sound and curiosity rather than UI and text, removing language barriers and naturally flows.
@@ -83,3 +103,5 @@ In this project, a virtual reality experience in Unreal Engine was created via t
 * Implementing suitable and comfortable interaction methods in a VR space that would allow people of different mobility levels to interact in the VR space without nausea or discomfort.
 		
 **Skills: Virtual Reality (VR) · LEAP · Experimental Research · Game Design · Unreal Engine**
+
+[Back to top](#about-me)
